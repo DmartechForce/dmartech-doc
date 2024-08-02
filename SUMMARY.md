@@ -7,7 +7,7 @@
 * [Main Module Introduction](ji-ben-gai-nian.md)
 * [Contacts](shou-ye.md)
 * [Segmentation](wei-xin-guan-li.md)
-* [Advanced segmentation](advanced-segmentation.md)
+* [Contact Computational Engine](contact-computational-engine.md)
 * [Wechat management](wechat-management/README.md)
   * [QR code management](wechat-management/qr-code-management.md)
   * [Mass message](wechat-management/message-history.md)
@@ -23,8 +23,9 @@
   * [Enterprise Broadcast](wecom/enterprise-broadcast.md)
   * [Message archiving](wecom/message-archiving.md)
   * [Wecom App](wecom/wecom-app.md)
+* [Interactive Center](interactive-center.md)
 * [Contents Creation and Management — Mail/ SMS/ MMS](ke-hu-guan-li.md)
-* [Forms Creation and Management](forms-creation-and-management.md)
+* [Leads](forms-creation-and-management.md)
 * [Marketing Automation](marketing-automation/README.md)
   * [Marketing Journey Case](marketing-automation/marketing-journey-case.md)
   * [View the Journey Report](marketing-automation/view-the-journey-report.md)
@@ -39,4 +40,3 @@
 ## Product update log
 
 * [Product update log](product-update-log/product-update-log.md)
-
